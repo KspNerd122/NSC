@@ -10,7 +10,7 @@ This mod is focused on providing several fictional but realistic extrasolar syst
 - Modular Kolonization System/USI Kolonization (MKS)
 - Sterling Systems
 # Unsupported Mods (Feel free to write configs to add support to these mods)
-- Far Future Technologies (No SpaceDust configs)
+- Far Future Technologies (No SpaceDust configs, Support for SpaceDust not planned in forseeable future)
 - Rational Resources - Support TBA
 - Scatterer - Support Coming Soon
 - Volumetric EVE - No support planned
